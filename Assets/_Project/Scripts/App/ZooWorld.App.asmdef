@@ -1,0 +1,13 @@
+{
+    "name": "ZooWorld.App",
+    "references": ["ZooWorld.Shared", "ZooWorld.Animals", "ZooWorld.UI", "Zenject"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

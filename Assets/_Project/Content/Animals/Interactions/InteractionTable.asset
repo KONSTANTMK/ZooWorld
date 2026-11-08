@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d754fd7542e1ad48ac3b3e73d2fcf6e, type: 3}
+  m_Name: InteractionTable
+  m_EditorClassIdentifier: 
+  _rules:
+  - _actorRole: 1
+    _targetRole: 0
+    _interaction: {fileID: 11400000, guid: 44e049e3aa47e1343bbca194c7338c1b, type: 2}
+  - _actorRole: 0
+    _targetRole: 0
+    _interaction: {fileID: 11400000, guid: e593cfc28bf092846b86efa621381663, type: 2}
+  - _actorRole: 1
+    _targetRole: 1
+    _interaction: {fileID: 11400000, guid: a7e0b9a7964baa240b95877646b136f1, type: 2}

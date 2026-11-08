@@ -1,0 +1,13 @@
+{
+    "name": "ZooWorld.UI",
+    "references": ["ZooWorld.Animals", "Zenject", "Unity.TextMeshPro", "ZooWorld.Shared"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

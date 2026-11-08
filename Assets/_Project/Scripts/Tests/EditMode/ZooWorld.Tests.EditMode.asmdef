@@ -1,0 +1,13 @@
+{
+    "name": "ZooWorld.Tests.EditMode",
+    "references": ["UnityEngine.TestRunner", "UnityEditor.TestRunner", "ZooWorld.Shared", "ZooWorld.Animals", "ZooWorld.Animals.Editor", "ZooWorld.UI"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": ["nunit.framework.dll", "R3.dll"],
+    "autoReferenced": false,
+    "defineConstraints": ["UNITY_INCLUDE_TESTS"],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
